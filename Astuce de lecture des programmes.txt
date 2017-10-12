@@ -1,0 +1,12 @@
+Ce fichier contient 2 progammes : 
+
+-Huffman.py contient l'intégralité du programme commenté.
+
+- Hufman_print contient le programme auquel a été ajouté des 'print' afin de mieux visualiser 
+ce que fait chaque fonction.
+Il suffit d'executer le programme pour obtenir tous les détails.
+Tout en bas du détail figure le taux de compression pour un texte donné
+Le texte peut etre changer en modifiant la variable 'te' a la ligne 233 du programme.
+
+Il est conseillé d'ouvrir les 2 fichiers, de lire le code sur Huffman.py et de regarder en parallèle
+le travaille des fonctions sur Huffman_print.
